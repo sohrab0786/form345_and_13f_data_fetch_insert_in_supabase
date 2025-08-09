@@ -1,7 +1,7 @@
 This is used to extract 13f and form345 data and insert it into the supabase 
 
-1. git clone 
-2. cd 
+1. git clone https://github.com/sohrab0786/form345_and_13f_data_fetch_insert_in_supabase.git
+2. cd form345_and_13f_data_fetch_insert_in_supabase
 3. copy env_example in .env file 
 4. give all details in .env file 
 5. create venv then
